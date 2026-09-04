@@ -11,6 +11,7 @@
 | [0455-assign-cookies](https://github.com/hariharansamy14-debug/LeetCode/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/hariharansamy14-debug/LeetCode/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/hariharansamy14-debug/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [3903-smallest-stable-index-i](https://github.com/hariharansamy14-debug/LeetCode/tree/master/3903-smallest-stable-index-i) |
 ## Sorting
 |  |
 | ------- |
@@ -55,4 +56,8 @@
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/hariharansamy14-debug/LeetCode/tree/master/0463-island-perimeter) |
+## Prefix Sum
+|  |
+| ------- |
+| [3903-smallest-stable-index-i](https://github.com/hariharansamy14-debug/LeetCode/tree/master/3903-smallest-stable-index-i) |
 <!---LeetCode Topics End-->
