@@ -11,6 +11,7 @@
 | [0455-assign-cookies](https://github.com/hariharansamy14-debug/LeetCode/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/hariharansamy14-debug/LeetCode/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/hariharansamy14-debug/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/hariharansamy14-debug/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3903-smallest-stable-index-i](https://github.com/hariharansamy14-debug/LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/hariharansamy14-debug/LeetCode/tree/master/3904-smallest-stable-index-ii) |
 ## Sorting
@@ -20,6 +21,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/hariharansamy14-debug/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/hariharansamy14-debug/LeetCode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/hariharansamy14-debug/LeetCode/tree/master/0455-assign-cookies) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/hariharansamy14-debug/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Hash Table
 |  |
 | ------- |
@@ -37,6 +39,7 @@
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/hariharansamy14-debug/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/hariharansamy14-debug/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/hariharansamy14-debug/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Greedy
 |  |
 | ------- |
@@ -73,6 +76,7 @@
 | ------- |
 | [0115-distinct-subsequences](https://github.com/hariharansamy14-debug/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/hariharansamy14-debug/LeetCode/tree/master/0940-distinct-subsequences-ii) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/hariharansamy14-debug/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Math
 |  |
 | ------- |
