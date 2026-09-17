@@ -12,6 +12,7 @@
 | [0463-island-perimeter](https://github.com/hariharansamy14-debug/LeetCode/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/hariharansamy14-debug/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0835-image-overlap](https://github.com/hariharansamy14-debug/LeetCode/tree/master/0835-image-overlap) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/hariharansamy14-debug/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/hariharansamy14-debug/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3903-smallest-stable-index-i](https://github.com/hariharansamy14-debug/LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/hariharansamy14-debug/LeetCode/tree/master/3904-smallest-stable-index-ii) |
@@ -29,6 +30,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/hariharansamy14-debug/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/hariharansamy14-debug/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/hariharansamy14-debug/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/hariharansamy14-debug/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -41,6 +43,7 @@
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/hariharansamy14-debug/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/hariharansamy14-debug/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/hariharansamy14-debug/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/hariharansamy14-debug/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Greedy
 |  |
@@ -82,6 +85,7 @@
 | ------- |
 | [0115-distinct-subsequences](https://github.com/hariharansamy14-debug/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/hariharansamy14-debug/LeetCode/tree/master/0940-distinct-subsequences-ii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/hariharansamy14-debug/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/hariharansamy14-debug/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/hariharansamy14-debug/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/hariharansamy14-debug/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -108,4 +112,8 @@
 |  |
 | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/hariharansamy14-debug/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+## Sliding Window
+|  |
+| ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/hariharansamy14-debug/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 <!---LeetCode Topics End-->
