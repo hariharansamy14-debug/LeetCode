@@ -37,6 +37,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/hariharansamy14-debug/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0349-intersection-of-two-arrays](https://github.com/hariharansamy14-debug/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/hariharansamy14-debug/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/hariharansamy14-debug/LeetCode/tree/master/0455-assign-cookies) |
@@ -130,4 +131,8 @@
 |  |
 | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/hariharansamy14-debug/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
+## Linked List
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/hariharansamy14-debug/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->
