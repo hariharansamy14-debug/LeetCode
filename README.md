@@ -15,6 +15,7 @@
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/hariharansamy14-debug/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/hariharansamy14-debug/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3524-find-x-value-of-array-i](https://github.com/hariharansamy14-debug/LeetCode/tree/master/3524-find-x-value-of-array-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/hariharansamy14-debug/LeetCode/tree/master/3525-find-x-value-of-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/hariharansamy14-debug/LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/hariharansamy14-debug/LeetCode/tree/master/3904-smallest-stable-index-ii) |
 ## Sorting
@@ -105,6 +106,7 @@
 | [1401-circle-and-rectangle-overlapping](https://github.com/hariharansamy14-debug/LeetCode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/hariharansamy14-debug/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3524-find-x-value-of-array-i](https://github.com/hariharansamy14-debug/LeetCode/tree/master/3524-find-x-value-of-array-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/hariharansamy14-debug/LeetCode/tree/master/3525-find-x-value-of-array-ii) |
 | [3870-count-commas-in-range](https://github.com/hariharansamy14-debug/LeetCode/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/hariharansamy14-debug/LeetCode/tree/master/3871-count-commas-in-range-ii) |
 ## Tree
@@ -137,4 +139,8 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/hariharansamy14-debug/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0876-middle-of-the-linked-list](https://github.com/hariharansamy14-debug/LeetCode/tree/master/0876-middle-of-the-linked-list) |
+## Segment Tree
+|  |
+| ------- |
+| [3525-find-x-value-of-array-ii](https://github.com/hariharansamy14-debug/LeetCode/tree/master/3525-find-x-value-of-array-ii) |
 <!---LeetCode Topics End-->
