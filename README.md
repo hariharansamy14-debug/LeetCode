@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/hariharansamy14-debug/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/hariharansamy14-debug/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/hariharansamy14-debug/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/hariharansamy14-debug/LeetCode/tree/master/0414-third-maximum-number) |
@@ -87,6 +88,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/hariharansamy14-debug/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/hariharansamy14-debug/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/hariharansamy14-debug/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3903-smallest-stable-index-i](https://github.com/hariharansamy14-debug/LeetCode/tree/master/3903-smallest-stable-index-i) |
@@ -180,4 +182,8 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/hariharansamy14-debug/LeetCode/tree/master/0002-add-two-numbers) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/hariharansamy14-debug/LeetCode/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
