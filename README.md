@@ -12,6 +12,7 @@
 | [0455-assign-cookies](https://github.com/hariharansamy14-debug/LeetCode/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/hariharansamy14-debug/LeetCode/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/hariharansamy14-debug/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0724-find-pivot-index](https://github.com/hariharansamy14-debug/LeetCode/tree/master/0724-find-pivot-index) |
 | [0835-image-overlap](https://github.com/hariharansamy14-debug/LeetCode/tree/master/0835-image-overlap) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/hariharansamy14-debug/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/hariharansamy14-debug/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -89,6 +90,7 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/hariharansamy14-debug/LeetCode/tree/master/0303-range-sum-query-immutable) |
+| [0724-find-pivot-index](https://github.com/hariharansamy14-debug/LeetCode/tree/master/0724-find-pivot-index) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/hariharansamy14-debug/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/hariharansamy14-debug/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3903-smallest-stable-index-i](https://github.com/hariharansamy14-debug/LeetCode/tree/master/3903-smallest-stable-index-i) |
