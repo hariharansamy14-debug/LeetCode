@@ -12,6 +12,7 @@
 | [0455-assign-cookies](https://github.com/hariharansamy14-debug/LeetCode/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/hariharansamy14-debug/LeetCode/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/hariharansamy14-debug/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0643-maximum-average-subarray-i](https://github.com/hariharansamy14-debug/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/hariharansamy14-debug/LeetCode/tree/master/0724-find-pivot-index) |
 | [0835-image-overlap](https://github.com/hariharansamy14-debug/LeetCode/tree/master/0835-image-overlap) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/hariharansamy14-debug/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -154,6 +155,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/hariharansamy14-debug/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/hariharansamy14-debug/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/hariharansamy14-debug/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Simulation
