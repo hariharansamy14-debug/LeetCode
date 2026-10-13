@@ -31,6 +31,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/hariharansamy14-debug/LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/hariharansamy14-debug/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/hariharansamy14-debug/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/hariharansamy14-debug/LeetCode/tree/master/0414-third-maximum-number) |
@@ -42,6 +43,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/hariharansamy14-debug/LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/hariharansamy14-debug/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/hariharansamy14-debug/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/hariharansamy14-debug/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -118,6 +120,7 @@
 | [0022-generate-parentheses](https://github.com/hariharansamy14-debug/LeetCode/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/hariharansamy14-debug/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/hariharansamy14-debug/LeetCode/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/hariharansamy14-debug/LeetCode/tree/master/0242-valid-anagram) |
 | [0301-remove-invalid-parentheses](https://github.com/hariharansamy14-debug/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/hariharansamy14-debug/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/hariharansamy14-debug/LeetCode/tree/master/0856-score-of-parentheses) |
