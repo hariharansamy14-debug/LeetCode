@@ -16,6 +16,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/hariharansamy14-debug/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/hariharansamy14-debug/LeetCode/tree/master/0724-find-pivot-index) |
 | [0835-image-overlap](https://github.com/hariharansamy14-debug/LeetCode/tree/master/0835-image-overlap) |
+| [1254-number-of-closed-islands](https://github.com/hariharansamy14-debug/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/hariharansamy14-debug/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/hariharansamy14-debug/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/hariharansamy14-debug/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -112,6 +113,7 @@
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/hariharansamy14-debug/LeetCode/tree/master/0463-island-perimeter) |
+| [1254-number-of-closed-islands](https://github.com/hariharansamy14-debug/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/hariharansamy14-debug/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
@@ -119,11 +121,13 @@
 | [0301-remove-invalid-parentheses](https://github.com/hariharansamy14-debug/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0463-island-perimeter](https://github.com/hariharansamy14-debug/LeetCode/tree/master/0463-island-perimeter) |
 | [1096-brace-expansion-ii](https://github.com/hariharansamy14-debug/LeetCode/tree/master/1096-brace-expansion-ii) |
+| [1254-number-of-closed-islands](https://github.com/hariharansamy14-debug/LeetCode/tree/master/1254-number-of-closed-islands) |
 ## Matrix
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/hariharansamy14-debug/LeetCode/tree/master/0463-island-perimeter) |
 | [0835-image-overlap](https://github.com/hariharansamy14-debug/LeetCode/tree/master/0835-image-overlap) |
+| [1254-number-of-closed-islands](https://github.com/hariharansamy14-debug/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/hariharansamy14-debug/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Prefix Sum
 |  |
@@ -295,6 +299,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/hariharansamy14-debug/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/hariharansamy14-debug/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Search Tree
 |  |
